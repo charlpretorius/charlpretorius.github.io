@@ -1,0 +1,14 @@
+project:
+  type: website
+
+website:
+  title: 'Charl Pretorius'
+  navbar:
+    left:
+      - href: about/
+        text: About
+
+format:
+  html:
+    theme: cosmo
+    toc: true
