@@ -5,7 +5,7 @@ website:
   title: 'Charl Pretorius'
   navbar:
     left:
-      - href: about/
+      - href: about.qmd
         text: About
 
 format:
